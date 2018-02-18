@@ -17,4 +17,4 @@ _lembrando que o script tem que ser feito em console Application em uma dev_
 ###### Greetz: shin0bi, JessicaScript, M4v3r1ck, $upreme [To all ConeCrew Team]
 
 
-<img src="https://developers.redhat.com/blog/wp-content/uploads/2017/06/C-image.jpeg">
+<img src="https://rlv.zcache.com/crew_member_event_team_staff_classic_round_sticker-red9babdf456b4b1b881d14fcff79b17f_v9waf_8byvr_324.jpg">
