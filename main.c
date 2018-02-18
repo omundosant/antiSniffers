@@ -55,4 +55,6 @@ int main(int argc, char& argv[])
     	printf("[#] Selecione qual processo deseja fechar.\n\n");
          unsigned int processName = 1;
           for (auto& itr : "[%s]", argc[0], PID);
+	    killProcessName(PID);
+	    return 0;
     }
