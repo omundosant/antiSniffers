@@ -16,4 +16,5 @@ _lembrando que o script tem que ser feito em console Application em uma dev_
 ###### Data do script feito: Domingo/18 de fevereiro/2018
 ###### Greetz: shin0bi, JessicaScript, M4v3r1ck, $upreme [To all ConeCrew Team]
 
+
 <img src="https://developers.redhat.com/blog/wp-content/uploads/2017/06/C-image.jpeg">
