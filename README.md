@@ -8,7 +8,7 @@ _Você pode deixalo em modo automatico ou manual_
 
 ### Avisos - [Erros comuns]
 
-_Ele pode não abrir, então o tente executar em modo administrador, _
+_Ele pode não abrir, então o tente executar em modo administrador, 
 _lembrando que o script tem que ser feito em console Application em uma dev_
 
 ### Info - [informações básicas]
